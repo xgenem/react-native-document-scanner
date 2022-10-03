@@ -3,6 +3,7 @@
   "description": "Scan documents, automatic border detection, automatic crop",
   "version": "1.4.3",
   "main": "index.js",
+  "typings": "./index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
